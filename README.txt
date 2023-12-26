@@ -1,3 +1,4 @@
+Created by:
 Johan Lee
 Kevin He
 
@@ -14,8 +15,8 @@ Implementation written in cush.c
 
 Description of Base Functionality
 ---------------------------------
-<describe your IMPLEMENTATION of the following commands:
-jobs, fg, bg, kill, stop, \ˆC, \ˆZ >
+Implementation of the following commands:
+jobs, fg, bg, kill, stop, \ˆC, \ˆZ 
 
 jobs: We iterated through the jobs list and kept track of the index with a 
 currentJob variable, printing out the whole list.
@@ -79,7 +80,6 @@ Thus, the terminal will be in this sampled state when a new job is started.
 
 List of Additional Builtins Implemented
 ---------------------------------------
-(Written by Your Team)
 
 cd: This simple built in allows the user to switch into the directory given by the first
 argument (argv[1]). If no argument is given, the user will be redirected to the home
