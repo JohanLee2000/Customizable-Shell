@@ -1,9 +1,5 @@
-Student Information
--------------------
-<Student 1 Information>
-Johan Lee (johanlee20)
-<Student 2 Information>
-Kevin He (kevin20)
+Johan Lee
+Kevin He
 
 How to execute the shell
 ------------------------
@@ -12,7 +8,7 @@ directory and use './cush'
 
 Important Notes
 ---------------
-N/A
+Implementation written in cush.c
 
 
 
