@@ -1,0 +1,8 @@
+cush> sleep 1sleep 1
+
+historyhistory
+
+cush> history
+   1 sleep 1
+   2 history
+cush> 
